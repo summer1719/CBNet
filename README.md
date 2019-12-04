@@ -2,7 +2,8 @@
 
 by Yudong Liu
 
-
+#https://blog.csdn.net/weixin_43489950/article/details/102025358 论文讲解
+#提出一种新型的特征融合算法: CBNet, 采用骨干网络融合, 有效提高了对象检测和实例分割的精确度
 
 ## Introduction
 
